@@ -14,7 +14,7 @@
 
 - Decide between save in a txt file or a png file
 
-> It will generate a out folder with the exported files
+> It will generate an out folder with the exported files
     
 - EXPERIMENT! 
 
